@@ -2,7 +2,8 @@ The last release of phpBB 2 (2.0.23)
 
 This version was released on February 17, 2008.
 
-I copied the source from (https://sourceforge.net/projects/phpbb/files/phpBB&2/phpBB%2v2.0.23/phpBB-2.0.23.zip)
+I copied the source from sourceforge.net. 
+I assume it is identical to this version (https://github.com/phpbb/phpbb/releases/tag/release-2.0.23)
 
 This branch of phpBB requires highly outdated versions of PHP, MySQL, Apache. 
 
